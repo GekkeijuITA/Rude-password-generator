@@ -1,2 +1,1 @@
 # Rude-password-generator
-🍕
