@@ -7,7 +7,7 @@ public class generatorePassword {
     public String generaPassword(){
         password="";
         int i;
-        for(i=0;i<16;i++){            
+        for(i=0;i<20;i++){            
             password+=(char)numeroCasuale();
         }
         return password;
